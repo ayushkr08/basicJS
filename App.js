@@ -20,7 +20,8 @@ const container = React.createElement(
     "div",
     {
         id: "container",
-        hello: "world"
+        hello: "world",
+        hi: "there"
     },
     [heading, heading2]);
 console.log(heading);
