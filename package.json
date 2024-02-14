@@ -1,0 +1,19 @@
+{
+  "name": "namaste",
+  "version": "1.0.0",
+  "description": "this is a learning",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushkr08/basicJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushkr08/basicJS/issues"
+  },
+  "homepage": "https://github.com/ayushkr08/basicJS#readme"
+}
